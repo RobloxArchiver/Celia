@@ -17,11 +17,11 @@ local Input = game:GetService('UserInputService');
 
 --> VirtualUser Library // It is so stupidly simple why don't more developers add this to their exploits and scripts? 10 Seconds
 function keypress(key)
-    VirtualUser.SetKeyDown(key)
+    VirtualUser:SetKeyDown(key)
 end
 
 function keyrelease(key)
-    VirtualUser.SetKeyUp(key)
+    VirtualUser:SetKeyUp(key)
 end
 
 --> Input // Once again, it is so simple why isn't it added in every exploit by now?
