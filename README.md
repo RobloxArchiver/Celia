@@ -1,2 +1,11 @@
-# Celia
-GUI for Roblox Games. Fully Open-Sourced and free to use!
+# Celia (PUBLIC)
+The Public version of Celia is now being worked on! 
+
+A notice for it: I will 100% bring over features from Celia maybe even a few crashes :)
+
+# Offlimit Games
+- The Ghetto Game
+Reason: I am an Admin for them 😅
+
+# Documentation
+Learn to self-document, I don't document much. 
