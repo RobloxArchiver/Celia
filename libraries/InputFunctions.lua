@@ -24,16 +24,16 @@ function keyrelease(key)
     VirtualUser:SetKeyUp(key)
 end
 
---> Input // Once again, it is so simple why isn't it added in every exploit by now?
-function isrblxactive()
-    if Input.WindowFocused:Connect() == true then
-        print("true")
-        return true
-    elseif Input.WindowFocusReleased:Connect() then
-        print("false")
-        return false
-    end
-end
+--> I take my words back, este contrayao no quiere trabajar. Cabron :weary:
+-- function isrblxactive()
+--    if Input.WindowFocused:Connect() == true then
+--        print("true")
+--        return true
+--    elseif Input.WindowFocusReleased:Connect() then
+--        print("false")
+--        return false
+--    end
+-- end
 
 --> MouseClicking // Left Button
 function mouse1click()
