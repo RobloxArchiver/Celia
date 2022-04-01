@@ -15,7 +15,7 @@ if not game:IsLoaded() then
 end
 
 --> Checks if CELIA is loaded. 
-if CELIA_LOADED and _G.debugging ~= true then
+if getgenv().CELIA_LOADED and _G.debugging ~= true then
     print("Celia Running")
     return
 else
