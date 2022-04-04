@@ -1,3 +1,7 @@
+# Update Notice
+- Cannot update for a while. 
+- 3 Weeks ETA.
+
 # Celia (PUBLIC)
 The Public version of Celia is now being worked on! 
 
